@@ -10,8 +10,8 @@ setup(
     version='0.7',  # Starting version of your library
     description='A library for interacting with the Steam API',  # Brief description
     author='Hendrick',  # Your name
-    author_email='hendrickherrera9@.com',  # Your email address
-    url='https://github.com/Xhand98/yourrepository',  # URL to your project
+    author_email='hendrickherrera9@example.com',  # Your corrected email address
+    url='https://github.com/Xhand98/steam-api',  # URL to your project
     packages=find_packages(),  # Automatically find packages in your project
     install_requires=[
         'httpx',  # List of dependencies
