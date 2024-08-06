@@ -28,7 +28,7 @@ pip install steam-api
 Clone the repository and install it in editable mode:
 
 ```sh
-git clone https://github.com/Xhand98/yourrepository.git
+git clone https://github.com/Xhand98/steam-api.git
 cd yourrepository
 pip install -e .
 ```
