@@ -106,8 +106,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/Xhand98/yourrepository/issues) or contact [hendrickherrera9@.com](mailto:hendrickherrera9@.com).
-
----
-
-Feel free to modify this template to fit your specific needs and preferences. The goal is to provide clear instructions and examples to help users get started with your library quickly.
+For any questions or issues, please open an issue on the [GitHub repository](https://github.com/Xhand98/steam-api/issues) or contact [hendrickherrera9@.com](mailto:hendrickherrera9@.com).
